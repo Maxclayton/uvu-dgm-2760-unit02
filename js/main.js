@@ -5,7 +5,7 @@ document.querySelector('header > h2').innerText = "The greatest detective of all
 
 document.querySelector('main > p3').innerText = "Page URL is " + window.location.href 
 
- document.querySelector('main > p4').innerText = "Page was last modified " + document.lastModified 
+ document.querySelector('main > p4').innerText = "Page was last updated on " + document.lastModified 
 
  document.querySelector('main > p5').innerText = "Page title is " + document.title
 
